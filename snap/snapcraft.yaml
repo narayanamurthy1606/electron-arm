@@ -1,5 +1,5 @@
 name: murthy-electron-hello-world-kiosk
-version: 0.1
+version: 1
 summary: Hello World Electron app for a Kiosk
 description: |
   Simple Hello World Electron app as an example of a HTML5 Kiosk
